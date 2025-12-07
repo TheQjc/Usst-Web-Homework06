@@ -1,7 +1,6 @@
 # 账号/密码
-username: qiao
-password: 1234
-可注册
+- username: qiao
+- password: 1234
 
 # 二手物品交易平台
 
